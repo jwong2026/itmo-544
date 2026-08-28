@@ -6,5 +6,4 @@ Screenshot showing MFA enabled on the IAM user
 
 Confirmation access key is AKIA***DTRB
 
-One paragraph reflecting on why root user MFA and least-privilege IAM users matter for cloud security.
-As a root user, I have access to everything including deletions which pose risks for businesses. An IAM user can have root permissions to do what is necessary to reduce use of root logins. As an IAM user, a root user makes a limited number of permissions on an IAM user to do what tasks require. If an IAM user is created to do accounting tasks, number of permissions are focused on billing and costing, financial related, etc. And the IAM user doesn’t need to do cloud engineering. 
+One paragraph reflecting on why root user MFA and least-privilege IAM users matter for cloud security: As a root user, I have access to everything including deletions which pose risks for businesses. An IAM user can have root permissions to do what is necessary to reduce use of root logins. As an IAM user, a root user makes a limited number of permissions on an IAM user to do what tasks require. If an IAM user is created to do accounting tasks, number of permissions are focused on billing and costing, financial related, etc. And the IAM user doesn’t need to do cloud engineering. 
