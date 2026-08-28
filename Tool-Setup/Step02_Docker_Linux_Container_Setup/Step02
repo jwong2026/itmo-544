@@ -6,4 +6,6 @@ Screenshot of cat /etc/os-release run inside the ubuntu container
 
 Screenshot of docker ps -a before and after removing my-ubuntu
  
-One paragraph explaining, in your own words, the difference between a Docker image and a Docker container: A docker image is to build an image that will become a template to allow developers to use/pull into their own containers. A docker container is to use an image into a container with a service developer applies to run. 
+One paragraph explaining, in your own words, the difference between a Docker image and a Docker container: 
+A docker image is to build an image that will become a template to allow developers to use/pull into their 
+own containers. A docker container is to use an image into a container with a service developer applies to run. 
