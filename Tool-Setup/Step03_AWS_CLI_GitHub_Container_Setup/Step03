@@ -6,4 +6,12 @@ Screenshot of git config --global --list
  
 Screenshot of github repository showing list_buckets.sh successfully published
 
-One paragraph explaining why you should never commit AWS credentials or GitHub tokens to a repository, even a private one: AWS credentials or GitHub tokens will never be published to the internet for security reasons, such as preventing hackers from accessing data that should never be leaked to the public. If a key or token is leaked, data can also be leaked at any time. For a repository on GitHub, any credentials or tokens should never be committed to a repository because a repository isn’t safe to store your keys or tokens, which can be accessed easily by anyone who discovers that keys and tokens are a key to access data or break into infrastructure to take control of whichever service is exposed. A developer can make mistakes while reconfiguring a repository’s settings and leak keys or tokens for a moment. 
+One paragraph explaining why you should never commit AWS credentials or GitHub tokens to a repository, 
+even a private one: 
+AWS credentials or GitHub tokens will never be published to the internet for security reasons, 
+such as preventing hackers from accessing data that should never be leaked to the public. 
+If a key or token is leaked, data can also be leaked at any time. For a repository on GitHub, 
+any credentials or tokens should never be committed to a repository because a repository isn’t 
+safe to store your keys or tokens, which can be accessed easily by anyone who discovers that keys 
+and tokens are a key to access data or break into infrastructure to take control of whichever service is exposed. 
+A developer can make mistakes while reconfiguring a repository’s settings and leak keys or tokens for a moment. 
