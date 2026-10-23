@@ -1,0 +1,7 @@
+.env
+stack_outputs.env
+.venv/
+__pycache__/
+.pytest_cache/
+stack_outputs.json
+stack_outputs.env
