@@ -3,6 +3,13 @@ October 24, 2026\
 ITMO-544\
 Lab 05 - Infrastructure as Python: From AWS CLI and Bash to boto3 and pytest
 
+# NOTES:
+Before doing anything below or to experiment more tests with various commands in Python.\
+Ensure you have ***.venv*** folder for Python3 then you run the following command:
+```
+source .venv/bin/activate
+```
+
 # Part 0: Set Up Your Lab05 Folder
 ![Screenshots of copy lab04 to lab05](photos/part-0_copy-lab-04.png)
 The picture above shows that I copied from the whole lab 04 to new lab which is lab 05.
