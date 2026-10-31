@@ -148,7 +148,7 @@ The pictures above show both scripts are executed twice to ensure nothing is lef
   - Explicit tracking keys allow monitoring software and engineering teams to cleanly isolate downstream architectural dependencies. It alerts operators immediately when components are failing behind the scenes without breaking the user experience entirely.
 
 ## 15.2: Troubleshooting
-URL: Go to this [page for troubleshooting](troubleshooting/README.md) to see a list of troubleshoots I've been through.
+URL: Go to this [page for troubleshooting](photos/troubleshooting/README.md) to see a list of troubleshoots I've been through.
 
 # 16. Submission Checklists
 *NOTES: Graduate Students, skip 16.1. Everyone (ITMO 444 and ITMO 544)*
