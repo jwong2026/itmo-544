@@ -1,0 +1,4 @@
+# Copy this file to terraform.tfvars and fill in your own values.
+key_name      = "ITMO-544-lab-keypair"
+contact_email = "jwong18@hawk.illinoistech.edu"
+ssh_cidr      = "<PUBLIC IP ADDRESS>/32" # either your own public IP address, or "" for no ssh
