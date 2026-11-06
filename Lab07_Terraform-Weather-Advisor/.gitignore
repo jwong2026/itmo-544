@@ -8,7 +8,6 @@ db_outputs.env
 .env
 
 .terraform/
-.terraform.lock.hcl
 *.tfstate
 *.tfstate.*
 tfplan
