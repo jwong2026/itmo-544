@@ -1,0 +1,19 @@
+# ---- Secrets & AWS Credentials (NEVER commit) ----
+.env
+*.pem
+*.key
+
+# ---- Runtime Deployment State Outputs ----
+db_outputs.env
+stack_outputs.env
+stack_outputs.json
+
+# ---- Python Virtual Environments & Caches ----
+.venv/
+venv/
+env/
+__pycache__/
+.pytest_cache/
+
+# ---- Node.js Dependencies ----
+node_modules/
