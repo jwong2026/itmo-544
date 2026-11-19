@@ -1,6 +1,6 @@
-Jimmy Wong
-November 19, 2026
-ITMO-544
+Jimmy Wong\
+November 19, 2026\
+ITMO-544\
 Final Project: Weather Advisor Application
 
 # Deliverable #1: Architecture Document
